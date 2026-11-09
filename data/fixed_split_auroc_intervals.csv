@@ -1,0 +1,9 @@
+protocol,seed,method,auroc,ci_lower,ci_upper,bootstrap_draws,unit
+published_holdout,42,hemopi2_rf1190_author,0.8837071222303187,0.8504074747755345,0.9166132997622103,500,test-set relatedness component
+published_holdout,42,plisson_gbc56,0.8703478800636926,0.8335690797188015,0.9045887054001285,500,test-set relatedness component
+published_holdout,42,dashboard_bilstm,0.8112433541143768,0.7684606042261319,0.8548050045637703,500,test-set relatedness component
+published_holdout,42,aac_logistic_control,0.6586646155506977,0.6001606436035016,0.7153938654634837,500,test-set relatedness component
+relatedness_holdout,42,hemopi2_rf1190_author,0.8385398933151742,0.776594380852235,0.8865477145527635,500,test-set relatedness component
+relatedness_holdout,42,plisson_gbc56,0.8410509590284871,0.7773358809030926,0.8871580644884216,500,test-set relatedness component
+relatedness_holdout,42,dashboard_bilstm,0.7316990125978888,0.6398411447098946,0.7944600691791442,500,test-set relatedness component
+relatedness_holdout,42,aac_logistic_control,0.6820877312450346,0.5818577807690711,0.759625115202212,500,test-set relatedness component

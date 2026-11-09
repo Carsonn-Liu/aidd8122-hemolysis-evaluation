@@ -1,0 +1,15 @@
+{
+  "n": 1926,
+  "positive_n": 891,
+  "negative_n": 1035,
+  "original_development_n": 1540,
+  "original_test_n": 386,
+  "length_min": 6,
+  "length_max": 39,
+  "exact_sequence_duplicates": 0,
+  "sequences_with_trimmed_outer_whitespace": 4,
+  "original_test_related_to_development_n": 267,
+  "original_test_related_to_development_fraction": 0.6917098445595855,
+  "sequence_group_n": 718,
+  "largest_sequence_group_n": 54
+}

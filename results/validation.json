@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "run_records": 45,
+  "checks": [
+    "Input checksums",
+    "Complete method protocol seed grid",
+    "Finite metric ranges",
+    "Confusion-count arithmetic",
+    "Equal split sizes within matched comparisons",
+    "Ordered fixed interval bounds"
+  ],
+  "reproducibility_scope": "Recalculation of aggregate summaries and figures from existing run-level records; fixed interval estimates are displayed, not re-estimated."
+}

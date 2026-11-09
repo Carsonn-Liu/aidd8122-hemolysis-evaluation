@@ -1,0 +1,6 @@
+method,published_holdout,random_holdout,relatedness_holdout
+HemoPI2 RF,0.876 ± 0.008,0.856 ± 0.019,0.821 ± 0.038
+Plisson GBC,0.870 ± 0.005,0.841 ± 0.019,0.798 ± 0.049
+Dashboard RNN,0.789 ± 0.024,0.815 ± 0.006,0.726 ± 0.017
+Logistic control,0.665 ± 0.008,0.669 ± 0.034,0.640 ± 0.082
+Reduced RF control,0.846 ± 0.005,0.813 ± 0.013,0.726 ± 0.091

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "data/cohort_summary.json",
+    "sha256": "3edbc822cee707a29bf1100c4d17e4ea607da7bc67ac6e2798a398c7b8de3460",
+    "source": "Existing local experiment records generated in this chat on 2026-11-09; no new predictive experiment in this deliverable"
+  },
+  {
+    "file": "data/fixed_split_auroc_intervals.csv",
+    "sha256": "f328e8ca2a7eb85a4ca6c082adf65c12ee50eba096694e9ebf7398b15afcbe48",
+    "source": "Existing local experiment records generated in this chat on 2026-11-09; no new predictive experiment in this deliverable"
+  },
+  {
+    "file": "data/original_replays.csv",
+    "sha256": "ef9538870bd6395fc3d8f0a4c6cc860ef3ec87337326f071458c5c110226dc3f",
+    "source": "Existing local experiment records generated in this chat on 2026-11-09; no new predictive experiment in this deliverable"
+  },
+  {
+    "file": "data/paired_auroc_intervals.csv",
+    "sha256": "3dc7339ea8adeaa38424d283b770b49a62c80f5c69088361dadeb40b47b60f53",
+    "source": "Existing local experiment records generated in this chat on 2026-11-09; no new predictive experiment in this deliverable"
+  },
+  {
+    "file": "data/partition_summary.csv",
+    "sha256": "ecdc610f9196d0d65c924104e362c687fe9d25cdf0cdd002fe5184577cf50f03",
+    "source": "Existing local experiment records generated in this chat on 2026-11-09; no new predictive experiment in this deliverable"
+  },
+  {
+    "file": "data/run_metrics.csv",
+    "sha256": "bc26226d3f9b1b9329bca403fe0edb7f99376c040e13c54be2dbe1904365a92c",
+    "source": "Existing local experiment records generated in this chat on 2026-11-09; no new predictive experiment in this deliverable"
+  }
+]

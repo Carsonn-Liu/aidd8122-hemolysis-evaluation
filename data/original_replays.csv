@@ -1,0 +1,4 @@
+study,evaluation,auroc,accuracy,mcc,development_n,test_n,reference_auroc,reference_accuracy
+HemoPI2 2025,Original published development and test split,0.879469948452217,0.8160621761658031,0.6296134519652137,1540,386,0.888,
+Plisson 2020,source_as_written_separate_minmax,0.762750038173767,0.6430769230769231,0.36022487640464707,1298,325,,0.717
+Plisson 2020,train_fitted_minmax,0.8527256069628951,0.7723076923076924,0.5394455969711974,1298,325,,
